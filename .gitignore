@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Local QCoDeS output from running the tutorial
+Demo_db.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.log
