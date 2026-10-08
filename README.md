@@ -10,8 +10,9 @@ The tutorial intentionally installs the latest available versions of QCoDeS and 
 
 ## Last tested with
 
-- Python 3.11.9, as recorded in the notebook metadata.
-- QCoDeS-Plotter v1.3.1.
+- Python 3.14.8, as recorded in the notebook metadata.
+- QCoDeS v0.61.0.
+- QCoDeS-Plotter v1.5.0.
 
 The notebook includes a verification cell that prints the Python executable and the installed QCoDeS version for the environment actually being used.
 
